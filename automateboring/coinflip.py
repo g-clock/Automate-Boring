@@ -5,4 +5,4 @@ for i in range(1, 1001):
       heads = heads + 1
   if i == 500:
       print('Halfway done!')
-print(Heads came up ' + str(heads) + ' times.')
+print('Heads came up ' + str(heads) + ' times.')
