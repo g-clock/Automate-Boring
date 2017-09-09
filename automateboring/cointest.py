@@ -6,22 +6,16 @@ while guess not in ('heads', 'tails'):
 
 toss = random.randint(0, 1) # 0 is tails, 1 is heads
 for i in range(0, 1):
-    if toss == 0:
+    if toss == 0 and not 1:
         print('You got it!\n')
+    if toss == 1 and not 0:
+        print('You got it!!\n')
     else:
-        print('Nope! Guess again!')
-guess = input()
+        print('Nope. Try again.')
 
-if toss == 0 and guess is not 1:
-    print('You got it!\n')
+        guess = input()
+    if guess is ('heads', 'tails'):
+        print('You were correct')
+
 else:
-    print('Nope! Guess again!')
-elif toss == 1 and guess is not 0:
-    print('You got it!\n')
-else
-    print('Nope. You are really bad at this game.')
-    guess = input()
-if toss == 1 and guess is not 0:
-       print('You got it!')
-    else:
-        print('Nope. You are really bad at this game.')
+    print('Game over')

@@ -1,0 +1,96 @@
+1504478432088	geckodriver	INFO	geckodriver 0.18.0
+1504478432100	geckodriver	INFO	Listening on 127.0.0.1:56665
+1504478434166	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504478435214	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504478435819	Marionette	INFO	Enabled via --marionette
+[GPU 14424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12652] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12652] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504478439172	Marionette	INFO	Listening on port 56671
+1504478439221	Marionette	INFO	Listening on port 56671
+1504478439712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504478439762	Marionette	DEBUG	loaded listener.js
+1504478439806	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504478440040	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504478440040	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504478440368	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://inventwithpython.com/"
+1504478440776	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1504478440786	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1504478440800	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1504478440868	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://platform.twitter.com/widgets/tweet_button.f8c8d971a6ac545cf416e3c1ad4bbc65.en.html#dnt=false&id=twitter-widget-0&lang=en&original_referer=http%3A%2F%2Finventwithpython.com%2F&size=m&text=Learn%20to%20code%20by%20making%20games%20and%20hacking%20ciphers!%20Free%20books%20at&time=1504478440792&type=share&url=http%3A%2F%2FInventWithPython.com&via=AlSweigart"
+1504478440870	Marionette	DEBUG	Received DOM event "pageshow" for "http://platform.twitter.com/widgets/tweet_button.f8c8d971a6ac545cf416e3c1ad4bbc65.en.html#dnt=false&id=twitter-widget-0&lang=en&original_referer=http%3A%2F%2Finventwithpython.com%2F&size=m&text=Learn%20to%20code%20by%20making%20games%20and%20hacking%20ciphers!%20Free%20books%20at&time=1504478440792&type=share&url=http%3A%2F%2FInventWithPython.com&via=AlSweigart"
+1504478441027	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f25282994d41bfe&origin=http%3A%2F%2Finventwithpython.com"
+1504478441030	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f25282994d41bfe&origin=http%3A%2F%2Finventwithpython.com"
+1504478441177	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f25282994d41bfe&origin=http%3A%2F%2Finventwithpython.com"
+1504478441179	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f25282994d41bfe&origin=http%3A%2F%2Finventwithpython.com"
+1504478441337	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1504478441348	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+[GPU 14424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11920] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17696] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 14424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1504478481000	geckodriver	INFO	geckodriver 0.18.0
+1504478481011	geckodriver	INFO	Listening on 127.0.0.1:56751
+1504478483050	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504478484106	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504478484715	Marionette	INFO	Enabled via --marionette
+[GPU 11532] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+1504478487488	Marionette	INFO	Listening on port 56757
+1504478487493	Marionette	INFO	Listening on port 56757
+1504478487540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504478487834	Marionette	DEBUG	loaded listener.js
+1504478487894	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504478488036	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504478488036	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504478488289	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://inventwithpython.com/"
+1504478488877	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1504478488887	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1504478489074	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1504478489078	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f3f56e283ba0d2&origin=http%3A%2F%2Finventwithpython.com"
+1504478489081	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f3f56e283ba0d2&origin=http%3A%2F%2Finventwithpython.com"
+1504478489202	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f3f56e283ba0d2&origin=http%3A%2F%2Finventwithpython.com"
+1504478489206	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f3f56e283ba0d2&origin=http%3A%2F%2Finventwithpython.com"
+1504478489206	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://platform.twitter.com/widgets/tweet_button.f8c8d971a6ac545cf416e3c1ad4bbc65.en.html#dnt=false&id=twitter-widget-0&lang=en&original_referer=http%3A%2F%2Finventwithpython.com%2F&size=m&text=Learn%20to%20code%20by%20making%20games%20and%20hacking%20ciphers!%20Free%20books%20at&time=1504478489069&type=share&url=http%3A%2F%2FInventWithPython.com&via=AlSweigart"
+1504478489207	Marionette	DEBUG	Received DOM event "pageshow" for "http://platform.twitter.com/widgets/tweet_button.f8c8d971a6ac545cf416e3c1ad4bbc65.en.html#dnt=false&id=twitter-widget-0&lang=en&original_referer=http%3A%2F%2Finventwithpython.com%2F&size=m&text=Learn%20to%20code%20by%20making%20games%20and%20hacking%20ciphers!%20Free%20books%20at&time=1504478489069&type=share&url=http%3A%2F%2FInventWithPython.com&via=AlSweigart"
+1504478489264	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1504478489274	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+[GPU 11532] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1504550576832	geckodriver	INFO	geckodriver 0.18.0
+1504550576846	geckodriver	INFO	Listening on 127.0.0.1:63233
+1504550579088	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504550580683	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504550581261	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+[GPU 10876] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504550583926	Marionette	INFO	Listening on port 63241
+1504550583941	Marionette	INFO	Listening on port 63241
+1504550584670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504550584731	Marionette	DEBUG	loaded listener.js
+1504550584818	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504550585077	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504550585077	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504550585541	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://inventwithpython.com/"
+1504550586281	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1504550586291	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1504550586410	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1504550586510	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://platform.twitter.com/widgets/tweet_button.f8c8d971a6ac545cf416e3c1ad4bbc65.en.html#dnt=false&id=twitter-widget-0&lang=en&original_referer=http%3A%2F%2Finventwithpython.com%2F&size=m&text=Learn%20to%20code%20by%20making%20games%20and%20hacking%20ciphers!%20Free%20books%20at&time=1504550586406&type=share&url=http%3A%2F%2FInventWithPython.com&via=AlSweigart"
+1504550586513	Marionette	DEBUG	Received DOM event "pageshow" for "http://platform.twitter.com/widgets/tweet_button.f8c8d971a6ac545cf416e3c1ad4bbc65.en.html#dnt=false&id=twitter-widget-0&lang=en&original_referer=http%3A%2F%2Finventwithpython.com%2F&size=m&text=Learn%20to%20code%20by%20making%20games%20and%20hacking%20ciphers!%20Free%20books%20at&time=1504550586406&type=share&url=http%3A%2F%2FInventWithPython.com&via=AlSweigart"
+1504550586515	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f3c16955e9595a4&origin=http%3A%2F%2Finventwithpython.com"
+1504550586518	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f3c16955e9595a4&origin=http%3A%2F%2Finventwithpython.com"
+1504550586600	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f3c16955e9595a4&origin=http%3A%2F%2Finventwithpython.com"
+1504550586601	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f3c16955e9595a4&origin=http%3A%2F%2Finventwithpython.com"
+1504550586623	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1504550586632	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+[GPU 10876] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16492] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16492] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
